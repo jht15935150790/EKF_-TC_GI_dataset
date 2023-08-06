@@ -11,3 +11,5 @@ This dataset has following features:
 The reference trajectory was computed using the post-processing kinematic mode of NovAtel Inertial Explorer software, utilizing the tactical-grade GNSS/INS POS320 system
 
 Please give us a star if this project is helpful to your research. Thank you! If you use EKF_-TC_GI_dataset, please cite:
+
+<img width="173" alt="微信图片_20230806181452" src="https://github.com/jht15935150790/EKF_-TC_GI_dataset/assets/140075944/e3b00775-d4f1-4156-9c7b-2cc8d5da204c">
