@@ -11,7 +11,7 @@ This dataset has following features:
 The reference trajectory was computed using the post-processing kinematic mode of NovAtel Inertial Explorer software, utilizing the tactical-grade GNSS/INS POS320 system
 
 Please give us a star if this project is helpful to your research. Thank you! If you use EKF_-TC_GI_dataset, please cite:
-
+https://github.com/jht15935150790/EKF_-TC_GI_dataset/edit/main/README.md
 
 
 The reference trajectory is shown below：
@@ -30,6 +30,12 @@ The GNSS and imu Specific parameters results is given in https://github.com/jht1
 
 # 2.Ground Truth
 The ground truth of the datasets is given in https://github.com/jht15935150790/EKF_-TC_GI_dataset/blob/main/Ground%20Truth
+
+Local reference points in the ENU coordinate system：
+
+P_origin_blh_r << 0.69821987 (rad),2.03133013 (rad),36.550 (m); 
+
+
 
 
 # 3.ACKNOWLEGEMENT
