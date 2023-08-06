@@ -31,3 +31,6 @@ The GNSS and imu Specific parameters results is given in https://github.com/jht1
 # 2.Ground Truth
 The ground truth of the datasets is given in https://github.com/jht15935150790/EKF_-TC_GI_dataset/blob/main/Ground%20Truth
 
+
+# 3.ACKNOWLEGEMENT
+Authors express our appreciation for the support of Key Laboratory of Satellite Navigation and Mobile Communication Fusion Technology, Ministry of Industry and Information Technology, Beihang University.
