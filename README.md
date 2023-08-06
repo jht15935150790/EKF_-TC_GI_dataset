@@ -26,3 +26,7 @@ The reference trajectory is shown below：
 
 # 1. Calibration
 The GNSS and imu Specific parameters results is given in https://github.com/jht15935150790/EKF_-TC_GI_dataset/blob/main/calibrations
+
+
+# 2.Ground Truth
+The ground truth of the datasets is given in 
