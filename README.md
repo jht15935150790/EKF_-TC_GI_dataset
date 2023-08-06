@@ -2,8 +2,11 @@
 
 Project Authors: Haitao Jiang
 
+
 This dataset has following features:
+
 1.More light-weight and easy for downloading.
+
 2.The raw GNSS data were acquired using a u-blox F9P board operating at a sampling rate of 10 Hz, while the raw IMU data was obtained through the MYNTEYE-s1030 module. 
 The reference trajectory was computed using the post-processing kinematic mode of NovAtel Inertial Explorer software, utilizing the tactical-grade GNSS/INS POS320 system
 
