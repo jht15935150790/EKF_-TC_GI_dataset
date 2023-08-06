@@ -12,4 +12,6 @@ The reference trajectory was computed using the post-processing kinematic mode o
 
 Please give us a star if this project is helpful to your research. Thank you! If you use EKF_-TC_GI_dataset, please cite:
 
-<img width="373" alt="微信图片_20230806181452" src="https://github.com/jht15935150790/EKF_-TC_GI_dataset/assets/140075944/e3b00775-d4f1-4156-9c7b-2cc8d5da204c">
+
+The reference trajectory is shown below：
+<img width="573" alt="微信图片_20230806181452" src="https://github.com/jht15935150790/EKF_-TC_GI_dataset/assets/140075944/e3b00775-d4f1-4156-9c7b-2cc8d5da204c">
